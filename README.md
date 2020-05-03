@@ -18,6 +18,7 @@ Countless Mods for games (some are lost to time and drive failures, but i have s
 Assembly (Cheat Engine/DBG tools/hex edits)
 
 
+THE REST BELOW IS "UNDER CONSTRUCTION"
 ------------- AUDIO/VIDEO PRODUCTION -------------
 
 NAN
