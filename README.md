@@ -10,11 +10,34 @@ Other Programming
 
 
 
-------------- AUDIO/VIDEO PRODUCTION -------------
-
-
 TO-DO (Available information upon request, but the leg-work for making it publically accessible is still ongoing)
 
 Add Game / Multiplayer Server project to Git-Hub
 Countless Mods for games (some are lost to time and drive failures, but i have since implemented redundant backups to prevent future entropic events)
 Assembly (Cheat Engine/DBG tools/hex edits)
+
+
+------------- AUDIO/VIDEO PRODUCTION -------------
+
+NAN
+
+
+
+
+
+
+
+------------- COMPUTER HARDWARE / SOFTWARE -------------
+
+NAN
+
+
+
+
+
+
+
+
+------------- WRITING/CREATIVE -------------
+
+NAN
