@@ -51,3 +51,5 @@ A tiny little game written in scratch as part of my CS50x Harvard class, availab
 https://github.com/babbymode/Portfolio-Main-Hub/releases/tag/scr1
 
 
+
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
