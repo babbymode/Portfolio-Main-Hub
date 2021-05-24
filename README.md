@@ -1,9 +1,15 @@
 ------------- PROGRAMMING -------------
 
 Assembly (Cheat Engine Tables)
-https://fearlessrevolution.com/viewtopic.php?p=190163#p190163 (Diablo 1 - The Hell 2 1.1032)
-https://fearlessrevolution.com/viewtopic.php?p=141511#p141511 (Domina)
-https://fearlessrevolution.com/viewtopic.php?p=109058#p109058 (Cultures 2 - The Gates of Asgard)
+
+https://fearlessrevolution.com/viewtopic.php?p=190163#p190163 
+(Diablo 1 - The Hell 2 1.1032)
+
+https://fearlessrevolution.com/viewtopic.php?p=141511#p141511 
+(Domina)
+
+https://fearlessrevolution.com/viewtopic.php?p=109058#p109058 
+(Cultures 2 - The Gates of Asgard)
 
 Java
  - https://github.com/babbymode/Starsector-Skillconfig : A mod for Starsector, a video game in a mixed genre of strategy/RPG/Simulation, exposes a lot of ingame variables that players and other modders can modify as a source for expanding upon the skill system. (includes source and compiled versions)
