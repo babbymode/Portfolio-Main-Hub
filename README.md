@@ -29,11 +29,6 @@ TO-DO (Available information upon request, but the leg-work for making it public
 
 - Countless Mods for games (some are lost to time and drive failures, but i have since implemented redundant backups to prevent future entropic events)
 
-
-Scratch Project (Don't Poop Your Pants!)
-A tiny little game written in scratch as part of my CS50x Harvard class, available mostly for posterity and levity.
-https://github.com/babbymode/Portfolio-Main-Hub/releases/tag/scr1
-
 ------------- AUDIO/VIDEO PRODUCTION -------------
 
 NAN
@@ -48,4 +43,11 @@ Colony - A scientifically informed fantasy insect tabletop roleplaying and card 
 
 Foodstuffs Films - My friend Dillon and I's currently neglected creative outlet. Weird, Tim & Eric-esque meme tier garbage, like Little Caesars pizza but actually Hot N' Ready.
 https://www.youtube.com/user/foodstuffsfilms
+
+---------- SCHOOL PROJECTS ------------
+
+Scratch Project (Don't Poop Your Pants!)
+A tiny little game written in scratch as part of my CS50x Harvard class, available mostly for posterity and levity.
+https://github.com/babbymode/Portfolio-Main-Hub/releases/tag/scr1
+
 
