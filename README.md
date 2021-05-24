@@ -1,6 +1,6 @@
 ------------- PROGRAMMING -------------
 
-Assembly (Cheat Engine Tables)
+Assembly (Cheat Engine/DBG tools/hex edits)
 
 https://fearlessrevolution.com/viewtopic.php?p=190163#p190163 
 (Diablo 1 - The Hell 2 1.1032)
@@ -26,8 +26,6 @@ TO-DO (Available information upon request, but the leg-work for making it public
 - Add Game / Multiplayer Server project to Git-Hub
 
 - Countless Mods for games (some are lost to time and drive failures, but i have since implemented redundant backups to prevent future entropic events)
-
-- Assembly (Cheat Engine/DBG tools/hex edits)
 
 ------------- AUDIO/VIDEO PRODUCTION -------------
 
