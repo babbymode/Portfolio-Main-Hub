@@ -3,16 +3,13 @@
 Assembly (Cheat Engine/DBG tools/hex edits)
 
 https://fearlessrevolution.com/viewtopic.php?p=190163#p190163 
-
-(Diablo 1 - The Hell 2 1.1032)
+ - (Diablo 1 - The Hell 2 1.1032)
 
 https://fearlessrevolution.com/viewtopic.php?p=141511#p141511 
-
-(Domina)
+ - (Domina)
 
 https://fearlessrevolution.com/viewtopic.php?p=109058#p109058 
-
-(Cultures 2 - The Gates of Asgard)
+ - (Cultures 2 - The Gates of Asgard)
 
 Java
 
@@ -32,10 +29,9 @@ TO-DO (Available information upon request, but the leg-work for making it public
 
 - Countless Mods for games (some are lost to time and drive failures, but i have since implemented redundant backups to prevent future entropic events)
 
+
 Scratch Project (Don't Poop Your Pants!)
-
 A tiny little game written in scratch as part of my CS50x Harvard class, available mostly for posterity and levity.
-
 https://github.com/babbymode/Portfolio-Main-Hub/releases/tag/scr1
 
 ------------- AUDIO/VIDEO PRODUCTION -------------
