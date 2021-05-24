@@ -23,29 +23,13 @@ TO-DO (Available information upon request, but the leg-work for making it public
 
 - Assembly (Cheat Engine/DBG tools/hex edits)
 
-
-The rest below is "UNDER CONSTRUCTION"
-
 ------------- AUDIO/VIDEO PRODUCTION -------------
 
 NAN
 
-
-
-
-
-
-
 ------------- COMPUTER HARDWARE / SOFTWARE -------------
 
 NAN
-
-
-
-
-
-
-
 
 ------------- WRITING/CREATIVE -------------
 
