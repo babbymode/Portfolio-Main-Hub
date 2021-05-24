@@ -20,7 +20,7 @@ Other Programming
 
  - Contributions/assistance to a scientific paper; "Stop and go: exploring alternative mechanisms for dynamic task allocation in social insects" (Will not upload a copy of it here due to potential issues, as it has also not been published yet, but I have a copy of a preliminary [and error filled] version available upon request for private inquiry.)
 
-Fallout 1/2 - Online (Fallout Script/C# and .Net)
+Fallout 1/2 - Online (Fallout Script/C# and .Net + Custom data structs)
 
 Currently one of my working personal projects, building a completely custom game server and adventure simply for the purpose of making an excellent gaming experience for myself and others.
 
