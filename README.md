@@ -22,7 +22,7 @@ Other Programming
 
 Fallout 1/2 - Online (Fallout Script/C# and .Net + Custom data structs)
 
-Currently one of my working personal projects, building a completely custom game server and adventure simply for the purpose of making an excellent gaming experience for myself and others.
+Currently one of my working personal projects, building a completely custom game server and adventure simply for the purpose of making an excellent gaming experience for myself and others. https://github.com/babbymode/Server
 
 
 TO-DO (Available information upon request, but the leg-work for making it publically accessible is still ongoing)
